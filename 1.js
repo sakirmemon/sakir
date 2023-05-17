@@ -1,13 +1,23 @@
 let name="sakir"
+
 let age=17
+
 let isApproved=true
+
 let lastname=null 
+
 let selectedcoulor = 
+
 console.log(typeof name)
+
 console.log (typeof age)
+
 console.log (typeof isApproved)
+
 console.log (typeof lastname)
+
 console.log (typeof selectedcoulor)
+
 let person= {
     name:"sakir",
     age:17,
